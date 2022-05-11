@@ -1,5 +1,13 @@
-# pet-dapp-with-solidity-and-ethers.js
-Solidity Tutorial: Creating An Ethereum dApp with Ethers.js
+# Solidity Tutorial: Creating An Ethereum dApp with Ethers.js
+
+Read Tutorial: [web3.hashnode.com](url)
+
+### Technologies Used 🛠
+- HTML & CSS
+- Solidity
+- Remix IDE
+- JavaScript
+- Ethers.js Library
 
 ## Demo
 
