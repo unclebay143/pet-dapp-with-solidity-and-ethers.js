@@ -163,8 +163,8 @@ const getCurrentPet = async () => {
   const pet = await PetContract.getPet();
 
   /* 6.2 Display the pet details section 
-  
-  Hide the pet form in DOM */
+  and
+  Hide the pet form in the DOM */
   petSection.style.display = "block";
   petFormSection.style.display = "none";
 
